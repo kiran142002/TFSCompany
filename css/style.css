@@ -261,6 +261,12 @@
                 url('../img/about.jpg') center center no-repeat;
     background-size: cover;
 }
+.contact-header{
+     background: linear-gradient(rgba(252, 245, 245, 0.7), rgba(22, 22, 22, .7)), 
+                url('../img/CONTACT-US.jpg') center center no-repeat;
+    background-size: cover;
+
+}
 .quote-header{
      background: linear-gradient(rgba(22, 22, 22, .7), rgb(175, 222, 189)), 
                 url('../img/FAQ-logo.png') center center no-repeat;
